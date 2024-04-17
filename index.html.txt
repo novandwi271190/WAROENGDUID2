@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Play App Market - XXXLOVE - the best porn app</title>
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="google" value="notranslate"/>
+    <meta name="google" content="notranslate"/>
+    <link rel="prefetch" href="https://ik.imagekit.io/neles/ezgif.com-gif-maker.webm"/>
+		<link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0dNGQk_nZi1DeDs_f8Ku_Nlwxy__Yg0H6KKwtuxlqYPL87EfNcnnu7zOq9w4chE_FeJnaIq12gSDP9eq5pWtE6yiXYVGguyErQRXMRxnztcyN4V9c6tiFVKBCxorw7pw9nkiIwY8HHmw_kFFFhWulZtkNspGfvn8SM6f_8xIVeF1cYCYnOyrknDba/s1600/ph-logo.jpg">
+
+    <style>@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&amp;display=swap);.preview-block,.shadow{top:0;position:absolute}.app-logo,.app-photo{object-fit:cover;box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)}.preview-block,.rate-num,.shadow{position:absolute}.app-info_main,.rate,.rate-total{white-space:nowrap}*{margin:0;padding:0;box-sizing:border-box;font-family:Roboto,sans-serif!important}body{background-color:#fff}a{text-decoration:none!important}.preview-block{overflow:hidden;height:56.25vw;z-index:-1000;width:100vw}.preview-video{width:100vw;object-fit:cover;z-index:-1000}.shadow{background:linear-gradient(to top,#202124 20%,rgba(0,0,0,0) 100%);bottom:0;left:0;right:0}.app-logo{width:72px;height:72px;border-radius:20px;margin:7px 24px 0 0}.header{display:flex;gap:.6rem;margin:1rem}.app-name{font-size:1.5rem;color:#e8eaed;letter-spacing:0;word-break:keep-all;line-height:2rem}.app-info_main{letter-spacing:.00625em;font-weight:500;display:flex;color:#01875f;line-height:1.5rem;font-size:1rem;flex-wrap:wrap;margin-top:4px}.app-desc,.up-block_desc{line-height:1.25rem;font-size:.875rem}.app-info_block{font-size:13px;display:flex;flex-direction:column}.add-info_block,.wishlist-btn{justify-content:flex-start;display:flex}.add-info_block{margin:1rem;padding:16px 0}.info{width:33.3333%;font-size:14px;display:flex;flex-direction:column;align-items:center}.info_first,.info_second{border-right:1px solid #d8d8dc}.info span{font-weight:600;height:24px;display:flex;align-items:center;color:#e8eaed}.info p{color:#b9bdc3;font-size:12px;margin-top:4px}.info span img{height:12px;width:12px}.pegi{width:24px}.rate-block{display:flex;flex-wrap:wrap}.rate{display:flex}.download-amount{color:#616161;margin-left:3px}.user-icon{width:1rem;height:1rem;margin-left:3px}.star{width:10px;height:10px}.actions-block{margin:1rem;display:flex;justify-content:center;flex-direction:column}.install-btn{height:2.5rem;display:flex;justify-content:center;align-items:center;border:0;background-color:#01875f;border-radius:8px;color:white;font-weight:700}.wishlist-btn{align-items:center;height:48px;outline:0;margin:0 auto;width:fit-content;border:0;background-color:transparent;color:#01875f;font-weight:700;font-size:14px;gap:.4rem}.wishlist-btn img{width:24px;height:24px}.ad-contains{color:#616161;font-size:13px;font-weight:400;margin-bottom:8px}.app-photo_block{display:flex;justify-content:flex-start;overflow-x:auto}.app-photo{border-width:0;width:124px;min-width:124px;height:220px;margin-left:.5rem;cursor:pointer;border-radius:8px}.about{padding:20px 1rem;font-size:18px;font-weight:500;display:flex;justify-content:space-between}.arrow{width:20px;height:20px}.app-desc{font-weight:400;letter-spacing:.0142857143em;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:6;padding:0 1rem 1rem;color:#5f6368}.reviews-block,.up-block{padding:1rem}.up-block_title{color:#202124;font-size:.875rem;font-weight:500;letter-spacing:.0178571429em}.up-block_desc{font-weight:400;letter-spacing:.0142857143em;margin-top:4px;color:#5f6368}.data-block{padding:1rem 1rem 0}.data-block_title{color:#202124;font-size:18px;font-weight:500;letter-spacing:.0178571429em}.data-block_desc{margin-top:20px;font-size:.875rem;font-weight:400;letter-spacing:.0142857143em;line-height:1.25rem;color:#5f6368}.reviews-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap}.reviews-header_name{float:left;color:#333;font-size:18px;font-weight:500;text-transform:none;width:fit-content}.verified-block{margin:20px 0;font-size:.75rem;font-weight:400;color:#5f6368;display:flex;align-items:center;gap:8px}.photo-block img,.photo_undefined{margin-right:.5rem}.policy-block,.user-photo_block{display:flex;align-items:center}.star-main{width:16px;height:16px}.rate-line3,.rate-line4,.rate-line5{height:100%;background-color:#01875f;opacity:.8;border-radius:9999px}.rate-big{color:#202124;font-size:64px;font-weight:400}.rate-blocks{display:flex}.rate_first-block{display:flex;flex-direction:column;justify-content:center;align-items:center;padding:16px;width:fit-content}.rate_second-block{width:100%;max-width:260px;padding:30px 16px;display:inline-block}.rate-total{font-size:12px;margin-top:1rem;font-weight:400;letter-spacing:.3px;color:#5f6368}.user-second{vertical-align:middle!important;margin-bottom:2px}.rate-num{font-size:11px;left:-16px;letter-spacing:1px;text-align:left;color:#737373;font-weight:400}.rate-line{display:inline-block;max-width:120px}.rate-line5{width:80%}.rate-line4{width:40%}.rate-line3{width:4%}.rate-line_block{position:relative;height:10px;margin-bottom:6px;width:100%;background-color:#e8eaed;font-weight:400;display:flex;border-radius:9999px}.photo_undefined,.user-photo{border-radius:50%;width:32px;user-focus:none;user-select:none}.comment-author_rate{display:flex;align-items:center;gap:4px}.comment-block{display:flex;flex-direction:column;margin-bottom:10px}.photo_undefined{height:32px;display:flex;justify-content:center;align-items:center;background-color:#9ace6a;color:#fff;font-size:16px}.photo-block{height:48px;display:flex;align-items:center}.user-photo{height:32px}.comment-author{line-height:24px;display:flex;flex-direction:column;margin-top:8px}.comment-author_name{font-size:14px;color:#333}.star-comment{width:12px;height:12px}.comment-author_time{color:#5f6368;display:inline-block;font-size:.75rem;font-weight:400;letter-spacing:.025em;margin-left:1ch;vertical-align:middle;white-space:nowrap}.comment-text{word-wrap:break-word;hyphens:auto;font-size:14px;line-height:1.4;color:#333;font-weight:300}</style>
+
+    <meta name="robots" content="noindex"/>
+</head>
+<body>
+
+<div style="background-color: #202124;margin-top: calc(56.25vw - 40px);" class="wrapper">
+    <a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"  class="preview-block">
+        <div class="shadow"></div>
+        <video class="preview-video" muted autoplay loop>
+            <source src="https://ik.imagekit.io/neles/ezgif.com-gif-maker.webm" type="video/webm"/>
+        </video>
+    </a>
+    <div class="header">
+        <img class="app-logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0dNGQk_nZi1DeDs_f8Ku_Nlwxy__Yg0H6KKwtuxlqYPL87EfNcnnu7zOq9w4chE_FeJnaIq12gSDP9eq5pWtE6yiXYVGguyErQRXMRxnztcyN4V9c6tiFVKBCxorw7pw9nkiIwY8HHmw_kFFFhWulZtkNspGfvn8SM6f_8xIVeF1cYCYnOyrknDba/s1600/ph-logo.jpg" alt="Logo" />
+        <div class="app-info_block">
+            <h1><span class="app-name">XXXLOVE - the best porn app</span></h1>
+            <div class="app-info_main">
+                <span>PH Company</span>
+            </div>
+        </div>
+    </div>
+    <div class="add-info_block">
+        <div class="info info_first">
+            <span>4.6 <img src="https://lineton.luckytreker.com/land2/assets/star.svg" alt=""></span>
+            <p>48.7K reviews</p>
+        </div>
+        <div class="info info_second">
+            <span>500K+ </span>
+            <p>Downloads</p>
+        </div>
+        <div class="info info_third">
+            <img class="pegi" src="https://lineton.luckytreker.com/land2/assets/pegi.svg" alt="" width="24" height="24">
+            <p>Rated for 18+</p>
+        </div>
+    </div>
+    <div class="actions-block">
+        <a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"  class="btn install-btn">
+            Install
+        </a>
+        <a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"  class="wishlist-btn">
+            <img src="https://lineton.luckytreker.com/land2/assets/bookmark.svg" alt="" /> Add to Wishlist
+        </a>
+    </div>
+</div>
+<div class="wrapper">
+    <div class="app-photo_block btn">
+        <a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID" ><img class="app-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56r5WXeKk1F4paL1PFTXTv3MgHydbk7TY3iiSDnm-7gvShMjw8SqaGahZLnR3pYVUgbGgSb9-Alve6U1fSJ0I53_pjOnxagk9QIM6TqSz6etdl0FqI0zLF6RmVJ7Rqb7YbCAILIxqdjnp6KWmkoqVWyy8OGipaJRl4tEe3INkOl6CkbhDfacr-Ma5vQ/s220/1-min.jpg" alt="" /></a>
+        <a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID" ><img class="app-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAfF9nWDWJ9N4giXW05RF87tUF0VXouk_LFzrjuX6NP-9EdxtTjnCFDBQvRsPw0QFsfvkwEaRFJMc_EQ1kZYqQT9uy0G_Tq-aETd5nBS7vVwdrI_3BfPs-soDkQnmZa1G3GwiQNU5bun3916_EGbGoEI9wqyF6bMMnHaAPAhsEbg7Tpru-OUjyttbxXw/s176/2-min.jpg" alt="" /></a>
+		<a href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID" ><img class="app-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Hm09jVc_s2dvLyCmUxbigL71b6_uT8ALxh5_F5PFyFWsJG8I8s4hc0sg1eifKOw8_nEf9RSJ3MrhIXaxx9sCP9yhARdF9kgv-yJw7asDsx2tCEzlfpZm5wY4gH0_dK1dNB_lIlecLGiiY-AnrcaSo6d7U2IvPqKW6kmP3VZgPE27bi81aOq1IJ4MLg/s195/3-min.jpg" alt="" /></a>
+
+    </div>
+    <div class="about">About this app
+        <img class="arrow" src="https://lineton.luckytreker.com/land2/assets/arrow.svg" alt="">
+    </div>
+    <div class="app-desc">
+        The best porn app for Android. Watch new hot videos every day 🔥 🔥 🔥
+        <br>
+        Only high-quality content, a player without lags, fast loading and endless emotions
+
+    </div>
+    <div class="up-block">
+        <span class="up-block_title">Updated on</span>
+        <p class="up-block_desc"> Jan 20,2023</p>
+    </div>
+    <div class="data-block">
+        <span class="data-block_title">Data safety</span>
+        <p class="data-block_desc"> Developers can show information here about how their app collects and uses your data.</p>
+    </div>
+    <div class="reviews-block">
+        <div class="reviews-header">
+            <h2 class="reviews-header_name">Ratings and reviews</h2>
+            <div class="policy-block">
+                <a
+                    href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"                     class="policiy-btn btn"
+                >
+                    <img class="arrow" src="https://lineton.luckytreker.com/land2/assets/arrow.svg" alt=""/>
+                </a>
+            </div>
+        </div>
+        <div class="verified-block">Ratings and reviews are verified <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuB-8H-GMLfjOUOBQmnKYBczouMwULSm6nSK6v5teESVmwo2oyASSptA5R8NmxHdAuXNjLJnrWgozWQYsGPco3ijtAcLBH2oTVvV1xYzPjwgopdioA_emhWQrGb-KRQXCgxpsPeUM4auJY78o8dQ4E5cVa6G5ePm82byLuahrbKollXX_cHKhGj7qgLA/s1600/info.png" alt="" width="16" height="16"></div>
+        <div class="rate-blocks">
+            <div class="rate_first-block">
+                <span class="rate-big">4.9</span>
+                <a
+                    href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"                     class="rate btn"
+                >
+                    <img class="star-main" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                    <img class="star-main" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                    <img class="star-main" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                    <img class="star-main" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                    <img class="star-main" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                </a>
+                <span class="rate-total"
+                >48.7K reviews</span
+                >
+            </div>
+            <div class="rate_second-block">
+                <div class="rate-line_block">
+                    <span class="rate-num">5</span>
+                    <span class="rate-line rate-line5"></span>
+                </div>
+                <div class="rate-line_block">
+                    <span class="rate-num">4</span>
+                    <span class="rate-line rate-line4"></span>
+                </div>
+                <div class="rate-line_block">
+                    <span class="rate-num">3</span>
+                    <span class="rate-line rate-line3"></span>
+                </div>
+                <div class="rate-line_block">
+                    <span class="rate-num">2</span>
+                    <span class="rate-line rate-line2"></span>
+                </div>
+                <div class="rate-line_block">
+                    <span class="rate-num">1</span>
+                    <span class="rate-line rate-line1"></span>
+                </div>
+            </div>
+        </div>
+        <div class="comment-block">
+            <div class="first_comment-block">
+                <div class="photo-block">
+                    <div class="user-photo_block">
+                        <img class="user-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5hgzgc5RqId5uxtziPQz-ljnzSSV3brHplSSlUIxHlQbAJ1lUHE_IFS1kl9gJQtNj64fQiat-e1wktfibfydyXlg2yIgJ59EMyX6xj7DMzMh2WTILQazP-4DaSitOhskn7u08S756kpPfH3TQkYihdNEGXrumPg0CrNyegMw66gum3OgYJbEcC3jDSw/s1600/WhatsApp%20Image%202023-01-19%20at%2022.39.37.jpeg" alt="">
+                        <span class="comment-author_name">youtube.com/@GalangBlitart</span></div>
+                </div>
+            </div>
+            <div class="second_comment-block">
+                <div>
+                    <div class="comment-author">
+
+                        <div class="comment-author_rate">
+                            <a
+                                href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"                                 class="rate btn"
+                            >
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                            </a>
+                            <span class="comment-author_time">January 30, 2023</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-text"> This app is so good! We are waiting for new HOT content! </div>
+            </div>
+
+        </div>
+        <div class="comment-block">
+            <div class="first_comment-block">
+                <div class="photo-block">
+                    <div class="user-photo_block">
+                        <img class="user-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1N2TjAvnua46H9Io1fQaZDLujkh5XGi7qWEjkSoXwXOPrQB-l_TXE_dKpmJF38vOW-4t8pn_G4cjyVnr2UYxTn-pvEr_lLU4br7ttUEpKsPoKtIk0NibYW88hGo18_bMQQKma57zTYYtYrgSOsmf2I8o218Z3litNsEEAdbqHF1bb6Xlfbap0aiwhJA/s1600/WhatsApp%20Image%202023-02-05%20at%2012.10.32.jpeg" alt="">
+                    <span class="comment-author_name">Irvan Pratama</span>
+                </div>
+
+            </div>
+            <div class="second_comment-block">
+                <div>
+                    <div class="comment-author">
+
+                        <div class="comment-author_rate">
+                            <a
+                                href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"                                 class="rate btn"
+                            >
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                            </a>
+                            <span class="comment-author_time">January 22, 2023</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-text"> High quality content! After watching the first video, it is impossible to stop at the second</div>
+            </div>
+
+        </div>
+        <div class="comment-block">
+            <div class="first_comment-block">
+                <div class="photo-block">
+                    <div class="user-photo_block"><img class="user-photo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaz_VTX3xB8CLFcbgUMPxXmXsl-E9eXQ7TasbjwsKGo3p-Lz8INEM6H916I8-eXAWaE4PzAxfyZ2ss-cW_V_LjxhJ6jAA0fwPGijO4TVY49UTn2GNvZbLTPr5RmkxgiSotwVFImIqlJIBZ9ipXFq8gNjIk_jZTCR_2H9QG1gmpctSjXcQOBphN57vyrg/s1600/WhatsApp%20Image%202023-01-27%20at%2010.28.31.jpeg" alt=""></div>
+                    <span class="comment-author_name">Clarisa Neles</span>
+                </div>
+            </div>
+            <div class="second_comment-block">
+                <div>
+                    <div class="comment-author">
+
+                        <div class="comment-author_rate">
+                            <a
+                                href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"                                 class="rate btn"
+                            >
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt="" />
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                                <img class="star-comment" src="https://lineton.luckytreker.com/land2/assets/star-green.svg" alt=""/>
+                            </a>
+                            <span class="comment-author_time">January 19, 2023</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-text"> I'm realy love this app. 💦💦💦 </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!--Leave page-->
+<a
+        id="lut-android-dialog-overlay"
+        class="lut-android-dialog-overlay"
+        target="_blank"
+        href="https://feeldatetop.life/?u=qybptec&o=wprkghb&t=WAROENGDUID&cid=WAROENGDUID"         style="display: none"
+        onclick="LUT.hideElement('lut-android-dialog-overlay')"
+>
+    <div class="lut-android-dia
